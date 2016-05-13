@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplauticom00schgoog_0758.png"; bbox 0 0 2940 5062; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 356 1913 877 2036">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 1913 877 2036">
+     <span class='ocr_line' id='line_1_1' title="bbox 356 1913 877 2036; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 356 1951 618 2035; x_wconf 68' lang='lat' dir='ltr'>T-MAool</span> <span class='ocrx_word' id='word_1_2' title='bbox 637 1987 645 2001; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 664 1913 877 2036; x_wconf 76' lang='lat' dir='ltr'>PLAVTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 155 2229 1077 2340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 2229 1077 2340">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 2229 1077 2340; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 155 2229 1077 2340; x_wconf 84' lang='lat' dir='ltr'><strong>MERCATOR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 217 2551 1012 2626">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 217 2551 1012 2626">
+     <span class='ocr_line' id='line_1_3' title="bbox 217 2551 1012 2626; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 217 2553 408 2625; x_wconf 67' lang='lat' dir='ltr'>GRAECA</span> <span class='ocrx_word' id='word_1_6' title='bbox 428 2594 435 2608; x_wconf 92' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 454 2551 671 2625; x_wconf 81' lang='lat' dir='ltr'>EMPOROS</span> <span class='ocrx_word' id='word_1_8' title='bbox 691 2594 698 2608; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 718 2553 1012 2626; x_wconf 79' lang='lat' dir='ltr'>PHILEMONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1474 5062">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1474 5062">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1474 5062; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1474 5062; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
